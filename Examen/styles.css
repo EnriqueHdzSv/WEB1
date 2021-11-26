@@ -1,0 +1,42 @@
+.fondo{
+    background-color: rgb(26, 188, 156);
+}
+.fondoverde{
+    background-color: rgb(46, 204, 113);
+}
+.fondorojo{
+    background-color:rgb(231, 76, 60);
+}
+.fondomorado{
+    background-color: rgb(155, 89, 182);
+}
+.ancho1{
+    width: 200px;
+}
+.ancho2{
+     width: 100%;
+}
+.ancho3{
+    width: 400px
+}
+.bordeblanco{
+     border: solid 3px white;
+}
+.texto1{
+    font-size: 2em;
+    text-align: left;
+}
+.texto2{
+    font-size: 2em;
+    text-align:center;
+}
+.texto3{
+    color: white;
+}
+.altura{
+    height: 500px;
+}
+.centrado{
+    padding-top: 150px;
+}
+
